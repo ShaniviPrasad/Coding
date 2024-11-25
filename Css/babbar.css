@@ -1,0 +1,12 @@
+h1{
+    font-size: smaller;
+    text-align: center;
+    /* link the css file in the html is called as external 
+    link in the head tag of the html */
+}
+
+p{
+    background-color:aquamarine;
+}
+ /* ordering wise css works 
+ if background color in external is link before than internal preference is given to internal */
